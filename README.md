@@ -2,14 +2,14 @@
 
 |   |  |
 | ------------- | ------------- |
-| Ejercicio 1  | Breve descripcion 0.1 |
-| Ejercicio 2 | Breve descripcion 0.2  |
+| Ejercicio 1  | Breve descripcion |
+| Ejercicio 2 | Breve descripcion  |
 | ... | ...  |
 
 ## Tema 1-Nombre tema 1
 
 |   |  |
 | ------------- | ------------- |
-| Ejercicio 1  | Breve descripcion 0.1 |
-| Ejercicio 2 | Breve descripcion 0.2  |
+| Ejercicio 1  | Breve descripcion |
+| Ejercicio 2 | Breve descripcion  |
 | ... | ...  |
