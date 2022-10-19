@@ -1,4 +1,4 @@
-## Tema 0-Nombre tema 0
+## Tema 0 - Introduccion
 
 |   |  |
 | ------------- | ------------- |
