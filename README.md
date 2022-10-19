@@ -2,9 +2,7 @@
 
 |   |  |
 | ------------- | ------------- |
-| Ejercicio 1  | Breve descripcion |
-| Ejercicio 2 | Breve descripcion  |
-| ... | ...  |
+| Ejercicio 5 | Práctica servidor web |
 
 ## Tema 1-Nombre tema 1
 
