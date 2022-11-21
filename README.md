@@ -5,7 +5,7 @@ Este repositorio incluye actividadades de DAW.
 
 |   |  |
 | ------------- | ------------- |
-| Ejercicio 5 | Práctica servidor web |
+| Ejercicio 1 | Práctica servidor web |
 
 ## Tema 1 - Servidores Web
 
