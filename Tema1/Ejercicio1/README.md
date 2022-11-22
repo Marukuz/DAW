@@ -10,7 +10,7 @@ Crea un script que añada un puerto de escucha en el fichero de configuración d
 ### 2.Script. 
 Crea un script que añada un nombre de dominio y una ip al fichero host. Debemos comprobar que no existe dicho dominio.
 
-[Script](addDomain.sh)
+[Script 2](addDomain.sh)
 
 ### 3.Script.
 Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje.
