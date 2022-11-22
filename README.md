@@ -11,6 +11,6 @@ Este repositorio incluye actividadades de DAW.
 
 |   |  |
 | ------------- | ------------- |
-| [Ejercicio 1](Tema1/Ejercicio1/) | Crea un script para cada uno de los siguientes problemas |
+| [Ejercicio 2](Tema1/Ejercicio1/) | Crea un script para cada uno de los siguientes problemas |
 | Ejercicio 2 | Breve descripcion  |
 | ... | ...  |
