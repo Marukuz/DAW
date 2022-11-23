@@ -6,7 +6,11 @@ echo "Introduce el dominio que quieres añadir: "
 
 read dominio
 
-cadenaDominio="127.0.0.1 $dominio"
+echo "Introduce la ip que quieres añadir: "
+
+read ip
+
+cadenaDominio="$ip $dominio"
 
 if grep -q -w "$dominio" "$archivoDominios"
 
